@@ -2,7 +2,7 @@
   "name": "veriguard-ai-landing",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://rightpick-1.github.io/aiFastCheckingApp/",
+  "homepage": "https://silvercare.hk",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
