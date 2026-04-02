@@ -1,7 +1,8 @@
 {
   "name": "veriguard-ai-landing",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://rightpick-1.github.io/aiFastCheckingApp/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

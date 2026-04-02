@@ -6,8 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: "",
-  assetPrefix: ""
+  basePath: "/Rightpick-1/aiFastCheckingApp",
+  assetPrefix: "/Rightpick-1/aiFastCheckingApp/"
 };
 
 export default nextConfig;
