@@ -1,7 +1,6 @@
 {
   "name": "veriguard-ai-landing",
   "version": "1.0.0",
-  "private": false,
   "homepage": "https://silvercare.hk",
   "scripts": {
     "dev": "next dev",
